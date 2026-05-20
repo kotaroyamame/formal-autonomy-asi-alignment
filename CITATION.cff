@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this framework, please cite this repository."
+title: "Formal Autonomy for ASI Alignment"
+authors:
+  - family-names: "ANDO"
+    given-names: "Hikaru"
+    name-particle: ""
+date-released: 2026-05-20
+url: "https://github.com/kotaroyamame/formal-autonomy-asi-alignment"
+abstract: "A public corpus on L plurality, formal autonomy, epistemic conservation, and ASI alignment-as-demonstration."
+license: "CC-BY-4.0"
+
