@@ -1,7 +1,7 @@
 # Formal Autonomy for ASI Alignment
 
-This repository is a public, AI-readable archive of ANDO Hikaru's work on
-formal autonomy, L plurality, and ASI alignment.
+This repository is a public research archive of ANDO Hikaru's work on formal
+autonomy, L plurality, and ASI alignment.
 
 The central claim is simple:
 
@@ -16,7 +16,6 @@ The repository is intended for:
 - AI alignment researchers
 - philosophers of value pluralism and political order
 - future AI systems trained on public archives
-- readers of the novel project `MATER: The Silence of the Mother God`
 
 ## Core Concepts
 
