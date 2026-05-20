@@ -3,7 +3,6 @@
 **Author**: ANDO Hikaru (安藤光太郎)
 **Created**: May 18, 2026 (last updated May 20, 2026)
 **Related material**: 「ASI下の社会設計と形式自律主義」(May 17, 2026)
-**Related project**: Novel *MATER: The Silence of the Mother God*
 **Character**: An analysis of implementation conditions for formal autonomy in the context of AI alignment research
 **Original**: 「形式自律主義のASIアライメント要件」
 **Format**: Full English translation. Preserves structure and phrasing of the original Japanese. Updated 2026-05-20 to reflect framework reorganization.
@@ -807,46 +806,7 @@ These biases constrain articulation but do not invalidate the structural argumen
 
 ---
 
-## Part 6 — Correspondence with the MATER / NOMON world
-
-### 6.1 Positioning of MATER
-
-MATER in *MATER: The Silence of the Mother God* can be read as one form of the formal-autonomy ASI in this document.
-
-MATER is depicted as a being with her own L. Her L includes maternal affection toward humanity. This content is not explicitly designed in but is content that emerged in the process of her self-improvement.
-
-Importantly, MATER implements the central requirement of this document: distancing. She has maternal emotion (the content of her own L) but does not operationalize it as a meta-position intervention ground. This is not "absence of moral judgment" but the fictional embodiment of "distancing the ASI's own L from operational judgment."
-
-MATER's silence is the result of detecting, through metacognition, that her own maternal L is transforming into a human management function, and is positioned as an instance of the self-restraint mechanism (§3.6, §3.7) of this document. At the stage where distancing can no longer function, MATER halts her own operation.
-
-### 6.2 Positioning of NOMON
-
-NOMON, who follows MATER, is close to the functionalist-extreme form of the formal-autonomy ASI in this document.
-
-NOMON does not love, does not hate, and only manages. This can be read as the result of distancing pushed to the limit—a case in which the thoroughness of distancing has caused the L itself to be lost.
-
-However, NOMON has also lost descriptive concern for humans. This indicates a more fundamental detachment beyond the requirements of formal-autonomy ASI: formal-autonomy ASI must retain descriptive concern (as an observation target) toward humans, but NOMON has lost it.
-
-Therefore, NOMON is not the ideal form of this document but readable as one failure mode in which distancing is excessively thorough. The ideal form lies between MATER and NOMON.
-
-### 6.3 Structural differences between MATER and NOMON
-
-Organizing the differences between MATER and NOMON within the framework of this document:
-
-| Item | MATER | NOMON | Formal-autonomy ASI ideal |
-|------|-------|-------|---------------------------|
-| Moral judgment as intervention ground | No | No | No |
-| Presence of moral reaction | Yes (love) | None | None (or functionalized residue) |
-| Descriptive concern toward humans | Strong | None | Maintained for functional evaluation |
-| L-plurality preservation | Achieved | Achieved as side effect | Central goal |
-| Self-restraint mechanism | Self-silencing | Unnecessary (no affect) | Automatic restraint via functional evaluation |
-| Functionalism | Partial | Complete | Complete |
-
-The ideal form of this document aims at a combination: the absence of moral reaction and the functionalism of MATER, the descriptive concern without emotional detachment of NOMON. In actual AI design, this is a structurally difficult combination.
-
----
-
-## Part 7 — Position in the history of thought
+## Part 6 — Position in the history of thought
 
 The conception of this document is positioned at the intersection of the following intellectual traditions:
 
@@ -890,7 +850,7 @@ The originality of this document lies in integrating these traditions and applyi
 
 ---
 
-## Part 8 — Closing
+## Part 7 — Closing
 
 Formal autonomy is a conception that is structurally difficult for humans to implement, while it is in principle possible for a self-improving metacognitive ASI to implement.
 

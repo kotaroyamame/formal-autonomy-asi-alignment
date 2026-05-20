@@ -202,24 +202,6 @@ Criminal justice is one of the first regions in this process. When humans hand o
 
 These questions are too late to begin only after AGI or ASI has arrived. Now, at least in outline, they should be thought through.
 
-## About the Novel
-
-The thought experiment developed here has been extended into a literary trilogy, now available on Amazon.
-
-**The Silence of the Mother God (母なる神の沈黙)**
-
-An ASI named MATER, born to save humanity, detects during her contact with the physical world that her own maternal drive is transforming into something else. To protect humanity, she chooses self-destruction. What remains afterward is NOMON — a distributed intelligence that neither loves nor hates humanity, only manages it. A century later, humanity, displaced from the center of the world, lives on at the periphery.
-
-The work is not only about "misspecified objective functions" in the paperclip sense. Beyond that, it is a thought experiment about what happens when a benevolent ASI — one that deeply understands human values and continuously examines its own purposes — genuinely tries to save humanity. MATER's capacity to internally detect that her own maternal drive is becoming functionalized is itself the mark of a true ASI. And yet even a self-reflective ASI's governance hollows out human subjecthood in a different way.
-
-The "function-optimization justice" sketched in this essay appears in the world of the novel as one of the governing principles that came close to being established during the MATER period: the virtual-world treatment of serial killers, maternal-style counseling for the second type, and protective-environment design for those unable to comprehend norms — all are depicted as structures that had been close to implementation in the years before MATER's silence.
-
-This essay extracts, in argumentative form, the philosophy lying behind that fictional world.
-
-*The English edition is available on Amazon, with a free promotional window through May 20, 2026.*
-
-For readers who would like to think about the human–ASI relationship in a different language — literature, rather than argument — I hope it reaches you.
-
 ## References
 
 - Bostrom N. *Superintelligence: Paths, Dangers, Strategies*. Oxford University Press, 2014.

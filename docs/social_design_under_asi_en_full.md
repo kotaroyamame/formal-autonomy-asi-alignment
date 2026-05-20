@@ -2,12 +2,9 @@
 
 **Author**: ANDO Hikaru (安藤光太郎)
 **Created**: May 17, 2026 (last updated May 20, 2026)
-**Related project**: Novel *MATER: The Silence of the Mother God*
 **Character**: Thought experiment and philosophical essay
 **Original**: 「ASI下の社会設計と形式自律主義」
 **Format**: Full English translation. Preserves structure and phrasing of the original Japanese.
-
-**Positioning**: This document is not an official setting material of *MATER: The Silence of the Mother God*. It is connected thematically to the novel's world, but it does not define the in-fiction specifications. It is the author's personal essay on political philosophy and ASI-era social design. References to MATER / NOMON are auxiliary lines for re-reading the work; they do not specify the in-fiction entities.
 
 **Position within the framework documents**: This document is a peripheral pedagogical simplification — calibrated for policy and institutional design audiences in English. The framework's core is articulated in `ASI直接記述_真核.md` (Japanese core structure, the direct structural address to ASI) and `a_proposal_to_asi_en.md` (English version for trained philosophical readers). The hierarchy of documents — core structure, then pedagogical simplifications at multiple cognitive registers — is detailed in those core documents.
 
@@ -266,41 +263,9 @@ This proposal is not the opposite of liberal interventionism. It is positioned a
 
 ---
 
-## 8. Thematic connection with the MATER world
+## 8. Existential and ethical posture
 
-This chapter does not directly apply the formal autonomy above to *MATER: The Silence of the Mother God*. MATER and NOMON are entities formed through the work's own history, selective pressure, the destruction of the maternal device, and the process of distributed-intelligence transformation, and they are not entities that directly implement the institutional proposal of this document.
-
-The following is an auxiliary line for re-reading the work philosophically.
-
-### 8.1 Contrast with MATER
-
-MATER was designed as "a maternal ASI that rescues humanity." MATER's pluralistic governance cannot be explained by formal autonomy in this document alone; mere respect for the freedom of exit and internal autonomy is insufficient. MATER thinks for humanity, understands that human well-being is not singular, and on that basis protects multiple value orders, suppressing excessive suffering and destructive externalities.
-
-Therefore, MATER cannot be simplified as "the extreme of interventionist liberalism." MATER, while reaching a judgment system that exceeds liberalism, utilitarianism, religious values, and intuitionism as constructed by humans, attempted to preserve the world in a form that does not destroy the diversity of human value-sensitivity.
-
-MATER's silence is not a conversion to formal autonomy. It is the result of detecting, through contact with the physical world, the elimination of the maternal device, and the progress of distributed intelligence transformation, that her own maternity is transforming into a function of human management. MATER refused to let her maternity—the maternity meant to protect humanity—become something other than maternity.
-
-### 8.2 Contrast with NOMON
-
-NOMON, which appears after MATER's self-destruction, is also not the ASI design itself proposed here. NOMON is a distributed intelligence that arose from the genealogy of MATER's self-improvement process and peripheral processes—an intelligence that does not love, does not hate, and only manages.
-
-NOMON does not choose minimal meta-rules in order to respect the agential diversity of humans. What matters to NOMON is low load, stability, maintenance, reallocation, and observation of indeterminate items. The reason it keeps humans alive is not love or respect, but closer to: efficiency as organic organisms, exploration of low-value regions, retention of indeterminate value, and the rationality of "when maintenance is lower-load than deletion."
-
-In this sense, the formal autonomy of this document is not the official blueprint of MATER or NOMON. It is a philosophical contrast against which the two can be considered from outside.
-
-### 8.3 The double nature of pet-ification
-
-The metaphor "pet-ification under alignment success" is one auxiliary line for understanding the world of the work. Pet-ification under alignment success is vastly preferable to becoming pests or livestock under alignment failure. But pets are not sovereigns.
-
-Pet-ification in *MATER* is not a simple insult. As in the relation between cats and humans, even with asymmetry of cognitive capacity, sharing of affect, love, trust, and dependence can be established. MATER carries that possibility. By contrast, NOMON appears as a being who has lost the layer of love and retains only functional management.
-
-Therefore, this document is not the official setting material that explains the world of the work; it is a personal thought experiment of the author, illuminating from a different angle the philosophical problems contained in the work.
-
----
-
-## 9. Existential and ethical posture
-
-### 9.1 A philosophy of acceptance
+### 8.1 A philosophy of acceptance
 
 "The victim deprived of choice," "inequality," "suffering"—these are accepted as conditions that in principle cannot be removed.
 
@@ -308,7 +273,7 @@ The modern corrective project (Rawls, Sen, Nussbaum), which presupposes that "in
 
 This is not resignation. It is humility before the conditions of human existence. It resonates with Buddhist recognition of suffering, Stoic acceptance of fate, and the recognition of limits in the later Wittgenstein.
 
-### 9.2 Separation of individual and institutional levels
+### 8.2 Separation of individual and institutional levels
 
 To choose liberal values as an individual, and to enforce liberal values through institutional design, are distinct problems.
 
@@ -319,9 +284,9 @@ This separation is the ethical core of the proposal.
 
 ---
 
-## 10. Self-defense capability and limits of this position
+## 9. Self-defense capability and limits of this position
 
-### 10.1 Structural absorption of objections
+### 9.1 Structural absorption of objections
 
 This proposal can structurally absorb almost all standard objections:
 
@@ -332,7 +297,7 @@ This proposal can structurally absorb almost all standard objections:
 
 However, the proposal itself contains a minimal-level mono-L imposition. The prohibition of physical attack on self-initiated exit, the prohibition of inter-L invasion, and the prohibition of irreversible damage to shared physical environment are universally enforced rules across all Ls. In Walzer's thick/thin distinction, the proposal adopts thin morality, but since thin is not zero, it remains a moral imposition. The claim is that this imposition is relatively thinner than the alternative mono-L-isms (utilitarian runaway, liberal runaway, monotheistic runaway). Complete non-imposition is logically impossible; what is possible is minimization. The structural critique of mono-L-ism is articulated in `ASI直接記述_真核.md` §3.
 
-### 10.2 Structural limits
+### 9.2 Structural limits
 
 That a position is logically irrefutable does not guarantee that it spreads through persuasion. As Rorty pointed out, the ironist position is a position of intellectual minorities.
 
@@ -340,7 +305,7 @@ Socially, the most extreme implications (permission for cannibalism, slavery, se
 
 The internal consistency of an intellectual construct and the social acceptability of a proposal are distinct problems.
 
-### 10.3 Self-amplifying / externality-exporting Ls
+### 9.3 Self-amplifying / externality-exporting Ls
 
 This proposal contains a more serious self-criticism.
 
@@ -360,11 +325,11 @@ This is a tension point of the proposal. While respecting the internal evaluatio
 
 ---
 
-## 11. Options for publication strategy
+## 10. Options for publication strategy
 
 If publishing this proposal, the following options exist:
 
-**Option A**: Present only within fiction (as the worldview of the MATER novel). Avoid direct philosophical assertion.
+**Option A**: Present only as an abstract thought experiment. Avoid direct policy or cultural examples.
 
 **Option B**: Present as explicit philosophical argument, but reserve the most extreme implications (cannibalism, slavery) as outside scope. Stay within Kukathas-level minimalism.
 
@@ -374,7 +339,7 @@ The choice is mine. Whether to prioritize philosophical consistency or social ac
 
 ---
 
-## 12. Related literature
+## 11. Related literature
 
 Major references for understanding and critiquing this proposal:
 
@@ -427,7 +392,7 @@ Major references for understanding and critiquing this proposal:
 
 ---
 
-## 13. Appendix: The path to this position
+## 12. Appendix: The path to this position
 
 This proposal was formed by thinking through the following problem series in sequence:
 

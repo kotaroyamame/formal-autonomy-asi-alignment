@@ -30,7 +30,7 @@ The following kinds of files are intentionally excluded:
 - private outreach emails
 - tactical recognition or promotion notes
 - unfinished conversation fragments
-- novel manuscripts and publication build outputs
+- private creative manuscripts and publication build outputs
 - local development artifacts
 
 The goal of this repository is to preserve the core intellectual framework in
@@ -43,4 +43,3 @@ The most compact statement of the framework is:
 > Do not collapse humanity into a single L. Preserve multiple Ls as adaptive
 > value-orders. Their preservation may be rational not only for human dignity
 > and political pluralism, but also for ASI's own future meta-cognition.
-

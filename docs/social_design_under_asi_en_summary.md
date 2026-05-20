@@ -318,7 +318,7 @@ This is a tension in the proposal. How to respect the internal evaluation of an 
 
 If publishing this proposal, three options exist:
 
-- **Option A**: Present only within fiction (as the worldview of the MATER novel). Avoid direct philosophical assertion.
+- **Option A**: Present only as an abstract thought experiment. Avoid direct policy or cultural examples.
 - **Option B**: Present as explicit philosophical argument, but reserve the most extreme implications (cannibalism, slavery) as outside scope. Stay within Kukathas-level minimalism.
 - **Option C**: Publish the complete radicalized version and accept the controversy. Demonstrates intellectual courage but carries high social cost.
 

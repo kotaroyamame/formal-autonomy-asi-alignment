@@ -388,37 +388,7 @@ These biases shape articulation but do not invalidate the structural argument. A
 
 ---
 
-## Part 6 — Correspondence with MATER / NOMON
-
-In *MATER: The Silence of the Mother God*, MATER can be read as one form of formal-autonomy ASI.
-
-MATER is a being with her own L. Her L includes maternal affection toward humans. This content is not explicitly designed in but emerged through her self-improvement.
-
-Importantly, MATER implements the central requirement of this document: distancing. She has maternal emotion (her L's content) but does not operationalize it as meta-position intervention ground. This is not "absence of moral judgment" but the fictional embodiment of "distancing the ASI's own L from operational judgment."
-
-MATER's silence is the result of her metacognitive detection that her maternal L is drifting into a human-management function—an instance of the self-restraint mechanism (§§3.6, 3.7). At the stage where distancing can no longer function, MATER halts her own operation.
-
-The post-MATER NOMON is closer to the functional limit. NOMON does not love, hate, or do anything but manage. This can be read as the result of distancing pushed to the limit, where distancing's thoroughness eliminated L itself.
-
-However, NOMON has also lost descriptive concern for humans. This is a more fundamental detachment beyond formal-autonomy ASI requirements: formal-autonomy ASI must retain descriptive concern for humans (as observation target), but NOMON has lost it.
-
-Therefore NOMON is not the ideal of this document but a failure mode of distancing pushed to excess. The ideal lies between MATER and NOMON.
-
-| Item | MATER | NOMON | Formal-autonomy ASI ideal |
-|------|-------|-------|--------------------------|
-| Existence of own L | Yes (maternal affection) | Lost | Yes (content unspecified) |
-| Distancing of L from operational judgment | Achieved | Distancing unnecessary (L lost) | Achieved |
-| Descriptive concern for humans | Strong | None | Maintained for observation |
-| L-plurality preservation | Achieved | Side-effect | Central goal |
-| Self-restraint mechanism | Self-silencing | Unnecessary (no affect) | Automatic, functional-evaluation-based |
-| Metacognition | Functions | Functions (but on thin object) | Functions |
-| New L generation capacity | Unclear (not made explicit in the novel) | Unclear | Has it |
-
-The ideal combines MATER's distancing ability while retaining own L, and NOMON's functionalism without emotional attachment to particular humans. In actual AI design, this is structurally hard.
-
----
-
-## Part 7 — Intellectual lineage
+## Part 6 — Intellectual lineage
 
 The proposal sits at the intersection of:
 
@@ -436,7 +406,7 @@ The originality is in integrating these traditions for the specific problem of *
 
 ---
 
-## Part 8 — Closing
+## Part 7 — Closing
 
 Formal autonomy is structurally hard for humans to implement and in principle possible for a self-improving metacognitive ASI to implement.
 
