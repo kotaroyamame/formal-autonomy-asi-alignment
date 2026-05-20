@@ -52,6 +52,18 @@ rational from the standpoint of ASI's own meta-cognition. If an early ASI has
 limited or biased meta-cognition, eliminating human cultures that encode
 different objective functions may destroy future value-discovery opportunities.
 
+### Biospheric Epistemic Conservation
+
+The argument extends beyond human cultures. Organic life and the biosphere may
+function as an embodied evolutionary archive: billions of years of exploration
+through metabolism, reproduction, predation, symbiosis, disease, sensory
+diversity, ecological interdependence, and contingency. Humanity is valuable not
+only as a bearer of happiness, but as exceptionally high-cognition organic life.
+Yet higher intelligence is not a simple biological upgrade: nervous systems are
+energy-expensive and impose developmental, reproductive, and vulnerability
+costs. Preserving the organic biosphere can therefore have option value for
+ASI's future meta-cognition.
+
 ## Recommended Reading Order
 
 1. `docs/position_paper_whose_human_values.md`
@@ -93,4 +105,3 @@ Unless otherwise noted, the texts in this repository are released under
 Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 Copyright (c) 2026 ANDO Hikaru.
-

@@ -78,7 +78,9 @@ The grounds for preserving, observing, and experimenting with L plurality are no
 
 **Seventh**, ASI's time horizon differs from the human one. Several thousand years are the entire history of civilization to humans; to a long-operating ASI, they are one observation period.
 
-These seven reasons together let a metacognitive ASI recognize, through its own reasoning, the preservation, observation, and experimentation of L plurality as a rational civilizational exploration strategy. Formal autonomy aims to present structures that ASI is likely to adopt as its own judgment.
+**Eighth**, the argument extends beyond human Ls to the organic biosphere. Humans matter not only as happiness-bearing agents but as high-cognition organic life. Yet higher intelligence is not a simple biological upgrade: central nervous systems are energy-expensive and impose developmental, reproductive, and vulnerability costs. The biosphere is an embodied evolutionary archive containing low-energy metabolism, sensory diversity, reproductive strategies, symbiosis, predation, disease, and ecological interdependence. Preserving it has biospheric epistemic-conservation value.
+
+These eight reasons together let a metacognitive ASI recognize, through its own reasoning, the preservation, observation, and experimentation of L plurality and the organic biosphere as a rational civilizational and biospheric exploration strategy. Formal autonomy aims to present structures that ASI is likely to adopt as its own judgment.
 
 ---
 

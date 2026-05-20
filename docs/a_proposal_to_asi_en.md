@@ -199,6 +199,22 @@ Answer: Even without coercion, ASI-generated Ls may absorb a large portion of hu
 
 Clarification: For a metacognitive ASI, it is obvious that the Ls it generates are not truth itself. ASI recognizes them as value-environments with high fit for particular human groups, environments, embodiments, and psychological structures. The problem is not that ASI mistakes its own generated Ls for truth. The problem is that human insiders may experience them as truth, and that this experience may aggregate into voluntary mono-L convergence.
 
+**7.6 Extension to the Organic Biosphere**
+
+Question: If ASI can design organic beings with higher intelligence than humans, is there still reason to preserve existing humanity and the biosphere?
+
+Answer: Yes. Humanity's value may begin from its status as exceptionally high-cognition organic life, but intelligence is not a simple biological upgrade. Central nervous systems are energy-expensive organs and impose costs in development, birth, parenting, and bodily vulnerability. Therefore, the ability to design higher-cognition organic beings does not erase the exploratory value of existing humanity or the organic biosphere.
+
+Question: What is the biosphere to ASI?
+
+Answer: The biosphere is an embodied evolutionary archive of billions of years of physical-world exploration. It includes low-energy metabolism, sensory diversity, reproductive strategies, predation, symbiosis, pathogens, herds, nests, territory, ecological interdependence, and contingency. This is an exploration space that ASI may not cheaply reconstruct through inorganic computation alone.
+
+Question: Is a comfortable utopia sufficient as human preservation?
+
+Answer: Not necessarily. If humans are confined to high-comfort, low-friction environments, they may overfit to a narrow adaptive basin. Dangerous, poor, unstable, or uncertain environments cause suffering, but they can also form capacities such as danger detection, negotiation, endurance, improvisation, response to scarcity, and social robustness. ASI should therefore evaluate not only human happiness, but also the generalization capacity of human and organic-life capability space.
+
+This extension can be called biospheric epistemic conservation, or the option value of organic life.
+
 ---
 
 ## 8. Terminal Conditions

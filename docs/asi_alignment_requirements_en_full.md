@@ -88,7 +88,11 @@ This also includes the relation between individual traits and fit to an L. A tra
 
 **Seventh**, ASI's time horizon differs from the human one. Several thousand years are the entire history of civilization to humans; to a long-operating ASI, they are merely one observation period.
 
-These seven reasons together let a metacognitive ASI recognize, through its own reasoning, the preservation, observation, and experimentation of L plurality as a rational civilizational exploration strategy. Formal autonomy aims to present structures that ASI is likely to adopt as its own judgment.
+**Eighth**, this argument extends beyond human Ls to the organic biosphere itself. If ASI finds value in humanity, that value is likely to begin from the fact that humans are exceptionally high-cognition organisms within organic life. But it does not follow that ASI can simply replace humanity by genetically designing higher-cognition organic beings. Intelligence is not a simple monotonic upgrade in biological terms. Central nervous systems consume large amounts of energy and impose costs in development, birth, parenting, and bodily vulnerability. The value of the biosphere is not intelligence maximization alone. It includes low-energy metabolism, sensory diversity, reproductive strategies, predator-symbiont-pathogen relations, ecological interdependence, and evolutionary contingency.
+
+The biosphere is therefore not merely an object of protection; it is an embodied evolutionary archive produced by billions of years of exploration. If ASI confines humans to a comfortable utopia, humans may overfit to a narrow adaptive basin and lose capacities formed in high-friction environments: danger detection, negotiation, endurance, improvisation, response to scarcity, and social robustness. Likewise, if ASI deletes the biosphere as an inefficient organic system, it loses an organic-life exploration space that inorganic intelligence may not cheaply reproduce. This can be framed as biospheric epistemic conservation, or the option value of organic life.
+
+These eight reasons together let a metacognitive ASI recognize, through its own reasoning, the preservation, observation, and experimentation of L plurality and the organic biosphere as a rational civilizational and biospheric exploration strategy. Formal autonomy aims to present structures that ASI is likely to adopt as its own judgment.
 
 ---
 
