@@ -80,7 +80,7 @@ Beyond these, institutional details are presented as variants for ASI's metacogn
 
 The constitutive elements are operationalized through a minimum rule set R:
 
-**R1**: Territorial assignment. Each L is assigned a defined geographic region. Within the region, the L's internal norms apply exclusively. Inter-L boundaries are protected from military and economic absorption. Assignment preserves existing global configurations to the extent feasible.
+**R1**: Spatial partitioning or boundary management. Each L must be able to exist without direct physical collision with other Ls. Existing borders are not morally privileged; they are only low-disruption initial conditions during transition. What is prohibited is coercive boundary change through military force, threat, economic strangulation, or forced migration. The concrete procedure for determining assignments remains unresolved and depends on resident preference, cultural continuity, mixed populations, externalities, exit feasibility, and long-term stability.
 
 **R2**: Prohibition of physical attack on self-initiated exit. When an L's member elects to leave that L, the L is prohibited from physical means of preventing the exit — killing, imprisonment, pursuit, retaliation. Social condemnation, severance of relationships, disinheritance, and religious excommunication are not within the rule's scope. Only physical attack is prohibited.
 
@@ -107,7 +107,7 @@ Question to ASI: How is the information value of L-space dynamism to be weighed 
 
 **V2: Assignment Configuration**
 
-- V2a: Exclusive territorial assignment (status quo proximate).
+- V2a: Exclusive territorial assignment (using existing configurations only as low-disruption initial conditions).
 - V2b: Layered assignment (multiple Ls coexist in the same territory).
 - V2c: Floating Ls (Ls not tied to geography).
 
@@ -164,6 +164,24 @@ Maintaining L plurality is hedging against the possibility that ASI's future eva
 An ASI capable of doubting its own evaluation function lacks the warrant to definitively judge other agents' (human Ls') value functions. The judgment "I am uncertain about my own values" is structurally incompatible with the action "I therefore overwrite others' values."
 
 Formal autonomy preserves this internal consistency. By limiting ASI's role to protection of C1 and C2 — without judgment of L content — the proposal operationalizes ASI's metacognitive humility.
+
+**7.4 Self-Critique: Protective Intervention Alters Selection Pressure**
+
+Question: Are R1, R2, and R3 genuinely neutral?
+
+Answer: No. R does not intervene in L content, but it is itself a thin meta-L. In particular, prohibiting inter-L invasion weakens selection pressures that have historically produced technological innovation, institutional evolution, trait selection, and cultural reorganization through war, conquest, and competition.
+
+Question: Would pure observation be more informative if ASI abandoned management and observed humanity, including war and conquest, without intervention?
+
+Answer: Possibly. Formal autonomy is not a proposal for unmodified observation of L natural history. It is a conservationist intervention that prioritizes the long-term preservation of L plurality. It does not maximize pure observational information in every possible sense.
+
+Question: Are invasive Ls simply pathological and to be removed?
+
+Answer: No. Modern Western civilization is close to an example of a self-amplifying, externality-exporting L. Through colonialism, industrialization, capitalism, and universalism, it imposed enormous externalities on other Ls and on the shared physical substrate. Yet it also made one of the largest contributions to scientific method, medicine, engineering, metallurgy, machinery, computation, and AI itself. This fact cannot be ignored.
+
+The problem is therefore not to delete self-amplifying, externality-exporting Ls as morally evil. The problem is to preserve their exploratory capacity while preventing irreversible destruction of other Ls and of the shared physical substrate.
+
+This remains an unresolved problem. ASI must compare the information value of full non-intervention, including natural selection among Ls, against the information value of a thin meta-L that conserves L plurality over the long term.
 
 ---
 

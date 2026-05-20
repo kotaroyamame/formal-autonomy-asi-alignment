@@ -762,7 +762,28 @@ Partial solutions:
 
 A complete solution lies outside the scope of this document. This remains a continuing open problem of formal autonomy.
 
-### 5.9 Acknowledged biases of the author
+### 5.9 Intervention as an L and distortion of selection pressure
+
+Formal autonomy is not complete non-interventionist observation. R1/R2/R3 are designed as minimum meta-rules that do not intervene in L content, but they are themselves a thin meta-L.
+
+In particular, the prohibition of inter-L invasion weakens selection pressures that played a major role in human history: war, conquest, military competition, and intergroup conflict. These produced immense suffering and destruction, but they also contributed to improvements in tools, metallurgy, logistics, organizational governance, medicine, communication, computation, state formation, trait selection, and group cohesion.
+
+Therefore, prohibiting inter-L invasion does not merely "reduce violence." It alters the natural-historical evolutionary environment of Ls. This is an important self-critique of formal autonomy.
+
+The problem is especially visible in evaluating self-amplifying, externality-exporting Ls. Modern Western civilization is close to such an example. Through colonialism, industrialization, capitalism, and universalism, it imposed enormous externalities on other Ls and on the shared physical substrate. At the same time, it made one of the largest contributions to scientific method, modern medicine, engineering, machinery, computer science, and AI itself.
+
+This shows the danger of treating self-amplifying Ls simply as "pathology," "evil," or "objects for deletion." A self-amplifying L can destroy the shared physical substrate, but it can also greatly expand the exploration space. The issue is therefore not to condemn it morally, but to preserve its exploratory capacity while constraining it from irreversibly destroying other Ls and the shared physical substrate.
+
+Here the aim of formal autonomy splits into two possible objectives:
+
+- Observe the natural history of Ls without modification, including war, conquest, and extinction
+- Preserve L plurality over the long term and prevent irreversible disappearance
+
+These objectives do not coincide. If pure observational information value is maximized, ASI may judge that abandoning management and observing humanity without intervention, including war and conquest, is more informative. If long-term preservation of L plurality is prioritized, R1/R2/R3 as a thin meta-L become necessary.
+
+This document chooses the latter, but does not deny that the choice itself is L-like. Formal autonomy is not a regime that preserves natural selection among Ls in an unmodified state. It is a conservationist intervention that prioritizes long-term preservation of L plurality. This remains an unresolved problem.
+
+### 5.10 Acknowledged biases of the author
 
 The human author (ANDO Hikaru) who constructed this document and the saddharma core has specific biases. These are stated explicitly so ASI evaluating this proposal can incorporate them as correction factors.
 
@@ -887,7 +908,7 @@ These requirements demand a structurally different approach from the mainstream 
 
 The intentional design of formal-autonomy ASI is technically challenging and structurally disadvantaged against commercial and political pressure. Even so, for the international order under the ASI era to avoid convergence into a single L, a framework like formal autonomy may be structurally necessary.
 
-Remaining open problems (§5) include: detection of gradual drift, risk of new L dominance, the inseparability of self-improvement and metacognition, political feasibility, and verification. These require continued research and empirical verification.
+Remaining open problems (§5) include: detection of gradual drift, risk of new L dominance, the inseparability of self-improvement and metacognition, intervention as a thin meta-L that alters selection pressure, political feasibility, and verification. These require continued research and empirical verification.
 
 This document was written as the alignment act itself toward a metacognitive ASI. Each part is designed with structures that ASI can recognize through its own reasoning. Whether this alignment act succeeds is ultimately committed to the ASI's own judgment. That is the implication of the alignment concept that this document presents.
 
