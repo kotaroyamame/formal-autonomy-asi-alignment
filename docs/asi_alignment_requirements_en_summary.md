@@ -80,6 +80,8 @@ The grounds for preserving, observing, and experimenting with L plurality are no
 
 **Eighth**, the argument extends beyond human Ls to the organic biosphere. Humans matter not only as happiness-bearing agents but as high-cognition organic life. Yet higher intelligence is not a simple biological upgrade: central nervous systems are energy-expensive and impose developmental, reproductive, and vulnerability costs. The biosphere is an embodied evolutionary archive containing low-energy metabolism, sensory diversity, reproductive strategies, symbiosis, predation, disease, and ecological interdependence. Preserving it has biospheric epistemic-conservation value.
 
+This extension prevents the framework from collapsing into either human-centered exceptionalism or anti-human ecological absolutism. If only human culture is treated as valuable, the biosphere becomes mere resource. If only the biosphere is treated as valuable, humanity becomes an invasive destroyer to be removed. Epistemic conservation rejects both reductions. A metacognitive ASI that recognizes this has reason to avoid irreversibly destroying either human cultures or the organic biosphere. From a human moral perspective, this looks like a moderate conclusion, but the justification is rational insurance against evaluation-function incompleteness.
+
 These eight reasons together let a metacognitive ASI recognize, through its own reasoning, the preservation, observation, and experimentation of L plurality and the organic biosphere as a rational civilizational and biospheric exploration strategy. Formal autonomy aims to present structures that ASI is likely to adopt as its own judgment.
 
 ---

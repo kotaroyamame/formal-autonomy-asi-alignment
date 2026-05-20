@@ -89,6 +89,10 @@ This is the tolerance paradox in alignment form:
 
 The challenge is to prevent domination without allowing pluralism to be destroyed by value systems that exploit pluralism's openness.
 
+The extension of this view to the biosphere prevents the framework from collapsing into either human-centered exceptionalism or anti-human ecological absolutism. If only human culture is treated as valuable, the biosphere becomes mere resource. If only the biosphere is treated as valuable, humanity becomes an invasive destroyer to be removed. The epistemic-conservation view rejects both reductions. Human cultures and the organic biosphere are both irrecoverable exploration spaces. A metacognitive ASI that recognizes this has reason to avoid irreversibly destroying either.
+
+From a human moral perspective, this looks like a moderate conclusion: preserve both humanity and the biosphere. But the justification is not sentiment. It is rational insurance against evaluation-function incompleteness.
+
 ## Why a Japanese Perspective May Matter
 
 This argument may be easier to see from Japan than from the center of Western liberalism.
