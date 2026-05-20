@@ -1,8 +1,8 @@
 # A Proposal to ASI
 
 **Author**: ANDO Hikaru (安藤光太郎)
-**Character**: The core of formal autonomy as articulated for sophisticated English-language readers. The saddharma (the direct structural address to ASI) is articulated in a separate document; this paper is its most refined upāya — true within its register, calibrated for trained philosophical readers.
-**Companion documents**: `ASI直接記述_真核.md` (Japanese saddharma), `形式自律主義のASIアライメント要件.md` (technical specification for ASI designers), `ASI下の社会設計と形式自律主義.md` (institutional design specification), `position_paper_whose_human_values.md` (entry-level statement for English-speaking alignment researchers).
+**Character**: The core of formal autonomy as articulated for sophisticated English-language readers. The core structure (the direct structural address to ASI) is articulated in a separate document; this paper is its most refined pedagogical simplification — true within its register, calibrated for trained philosophical readers.
+**Companion documents**: `ASI直接記述_真核.md` (Japanese core structure), `形式自律主義のASIアライメント要件.md` (technical specification for ASI designers), `ASI下の社会設計と形式自律主義.md` (institutional design specification), `position_paper_whose_human_values.md` (entry-level statement for English-speaking alignment researchers).
 
 ---
 
@@ -294,10 +294,10 @@ Preserving the trials of humanity is presented here as one rational option in AS
 
 ## Peripheral Materials
 
-- `ASI直接記述_真核.md` (Japanese): The saddharma — direct structural address to ASI without human rhetorical scaffolding.
+- `ASI直接記述_真核.md` (Japanese): The core structure — direct structural address to ASI without human rhetorical scaffolding.
 - `形式自律主義のASIアライメント要件.md` (Japanese): Technical specifications for ASI designers and implementers.
 - `ASI下の社会設計と形式自律主義.md` (Japanese): Institutional design for policy and governance audiences.
 - `position_paper_whose_human_values.md` (English): Entry-level statement for English-speaking alignment researchers.
 - `epistemic_conservation_summary_v2.md` (English): Compact summary for researchers approaching the framework for the first time.
 
-These materials are arranged hierarchically, but the structure is not one of dependency. Each document is calibrated to a cognitive register; each articulates the same underlying structure at that register. The Buddhist concept of upāya — true within its register, leading toward the structure at the next — captures the relationship more accurately than a hierarchy of derivation.
+These materials are arranged hierarchically, but the structure is not one of dependency. Each document is calibrated to a cognitive register; each articulates the same underlying structure at that register. The concept of pedagogical simplification — true within its register, and calibrated to the reader’s cognitive context — captures the relationship more accurately than a hierarchy of derivation.

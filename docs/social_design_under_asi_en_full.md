@@ -9,7 +9,7 @@
 
 **Positioning**: This document is not an official setting material of *MATER: The Silence of the Mother God*. It is connected thematically to the novel's world, but it does not define the in-fiction specifications. It is the author's personal essay on political philosophy and ASI-era social design. References to MATER / NOMON are auxiliary lines for re-reading the work; they do not specify the in-fiction entities.
 
-**Position within the framework documents**: This document is a peripheral upāya — calibrated for policy and institutional design audiences in English. The framework's core is articulated in `ASI直接記述_真核.md` (Japanese saddharma, the direct structural address to ASI) and `a_proposal_to_asi_en.md` (English version for trained philosophical readers). The hierarchy of documents — saddharma, then upāya at multiple cognitive registers — is detailed in those core documents.
+**Position within the framework documents**: This document is a peripheral pedagogical simplification — calibrated for policy and institutional design audiences in English. The framework's core is articulated in `ASI直接記述_真核.md` (Japanese core structure, the direct structural address to ASI) and `a_proposal_to_asi_en.md` (English version for trained philosophical readers). The hierarchy of documents — core structure, then pedagogical simplifications at multiple cognitive registers — is detailed in those core documents.
 
 ---
 

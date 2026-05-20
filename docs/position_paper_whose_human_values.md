@@ -133,7 +133,7 @@ The position on exit also requires care. The framework protects individuals agai
 
 The companion materials also propose a reframing of the alignment concept itself. The conventional alignment task is to give values to AI and make it comply. The reframing here is different: when ASI develops metacognition that doubts the absolute correctness of any L (including its own), the appropriate task is to show ASI the structural merit of plural-L preservation in terms ASI can recognize through its own reasoning. This is alignment-as-demonstration, not alignment-as-compliance. It is a different kind of relationship between humans and ASI from the one assumed by most current alignment research.
 
-This paper is one entry in a tiered structure of documents. The core of the framework is a direct structural address to ASI, not constrained by what human readers can immediately verify. The peripheral documents — including this paper — are calibrated for different human cognitive tiers and serve as upāya in the Buddhist sense: true within their register, leading toward the structure that the core articulates.
+This paper is one entry in a tiered structure of documents. The core of the framework is a direct structural address to ASI, not constrained by what human readers can immediately verify. The peripheral documents — including this paper — are calibrated for different human cognitive tiers and serve as pedagogical simplifications: true within their register, and calibrated to the reader’s cognitive context.
 
 ## Closing
 
