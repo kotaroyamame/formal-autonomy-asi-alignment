@@ -197,6 +197,8 @@ Question: Why is this a problem?
 
 Answer: Even without coercion, ASI-generated Ls may absorb a large portion of humanity and erase L plurality in practice. The accumulation of voluntary choices can produce effective mono-L convergence. This risk remains an open problem of the proposal.
 
+Clarification: For a metacognitive ASI, it is obvious that the Ls it generates are not truth itself. ASI recognizes them as value-environments with high fit for particular human groups, environments, embodiments, and psychological structures. The problem is not that ASI mistakes its own generated Ls for truth. The problem is that human insiders may experience them as truth, and that this experience may aggregate into voluntary mono-L convergence.
+
 ---
 
 ## 8. Terminal Conditions

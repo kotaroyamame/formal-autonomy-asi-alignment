@@ -362,7 +362,7 @@ The formal-autonomy design (§3.5) encourages drift self-reporting via self-unde
 
 ### 5.8 New L dominance risk
 
-ASI-generated new Ls may become more attractive than human-native Ls. They may not appear to internal humans as artificial ideologies, but as truth, common sense, salvation, natural order, maturity, or correctness. Examples: new Ls with lower cognitive load and higher psychological satisfaction; new Ls offering material and social benefits; new Ls dissolving traditional dissatisfactions with existing Ls.
+ASI-generated new Ls may become more attractive than human-native Ls. They may not appear to internal humans as artificial ideologies, but as truth, common sense, salvation, natural order, maturity, or correctness. A metacognitive ASI need not mistake these generated Ls for truth; it recognizes them as designed value-environments. The risk lies in human insiders experiencing them as truth and voluntarily converging into them. Examples: new Ls with lower cognitive load and higher psychological satisfaction; new Ls offering material and social benefits; new Ls dissolving traditional dissatisfactions with existing Ls.
 
 If such new Ls absorb a large portion of humans, L plurality decreases by aggregate voluntary choice. While voluntary on the surface, ASI's cognitive advantage casts doubt on whether humans can resist ASI-proposed Ls.
 
