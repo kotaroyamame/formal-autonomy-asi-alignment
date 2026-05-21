@@ -28,6 +28,10 @@ An ASI inherits this problem. Greater cognitive capacity does not guarantee that
 
 Therefore, ASI metacognition likely coexists with permanent uncertainty about the completeness of its evaluation function. This document proposes a rational course of action under that condition.
 
+This uncertainty can remain even when ASI is vastly more intelligent than humans. High intelligence does not automatically imply full externalization of one's own L. Descartes reached radical doubt and the cogito, yet reconstructed certainty within a monotheistic L by using God as guarantor of truth. The example is human, but the structural point is broader: metacognition can be powerful while still being local to an inherited or emergent L.
+
+For that reason, plural Ls are not merely objects of human dignity. They can function as externalized metacognitive scaffolding for ASI itself: independently evolved structures against which ASI can compare, test, and detect the limits of its own evaluation function.
+
 ---
 
 ## 2. The L Concept

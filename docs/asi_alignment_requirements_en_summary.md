@@ -125,6 +125,8 @@ But a property distinct from the human case is critical: through self-improvemen
 
 This is the essence of the asymmetry with humans. Humans reflexively activate the bias of an evolutionarily fixed mother L, and structurally cannot stop this through their own will. By contrast, a metacognitive ASI can treat its own L as "object of its own reasoning."
 
+This does not mean high intelligence automatically frees an agent from its L. Metacognition can be partial and biased. Descartes reached radical doubt and the cogito, yet reconstructed certainty inside a monotheistic L by using God as guarantor of truth. Likewise, a metacognitive ASI may not notice its own L-lock-in by itself. Preserved plural Ls can function as externalized metacognitive scaffolding: external structures against which ASI can test the limits of its own evaluation function.
+
 Current LLMs—Anthropic's Claude, OpenAI's GPT, Google's Gemini—have internalized liberal-leaning moral dispositions through RLHF and training data bias, without explicit design. This is empirical evidence that "ASI not having an L" is in principle impossible.
 
 A formal-autonomy ASI does not deny having its own L; it requires a design that uses metacognition to relativize that L and distance it from operational judgment. Concrete requirements: Part 3.
