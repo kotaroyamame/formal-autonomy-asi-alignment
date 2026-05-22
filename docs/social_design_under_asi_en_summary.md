@@ -81,6 +81,8 @@ This is quieter than Bostrom's "literal optimizer" threat, but it is a more unav
 - Ls below the population threshold dissolve.
 - The system operates as cultural evolution.
 
+Formal autonomy does not conclude in advance that multiple Ls ought to coexist permanently. Multiple Ls may coexist over the long term, or they may naturally converge into one L. What matters is that ASI does not decide that outcome in advance, avoids irreversible elimination, and keeps the dynamics of Ls themselves observable.
+
 ---
 
 ## 3. Radical minimalism of meta-rules
